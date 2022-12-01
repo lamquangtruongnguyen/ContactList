@@ -1,5 +1,5 @@
-#**Contact Lists Project**. 
-##Setup Guide
+#**Contact Lists Project**\ 
+##Setup Guide\
 1. Save the entire package in htdocs folder and unzip it
 2. Run **Apache Webserver** and **MySQL Database** on local machine with **XAMPP**
 3. Go to web browser and type localhost as the URL and navigate to PHPMyAdmin
