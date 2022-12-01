@@ -1,4 +1,4 @@
-#**Contact Lists Project**
+#**Contact Lists Project**. 
 ##Setup Guide
 1. Save the entire package in htdocs folder and unzip it
 2. Run **Apache Webserver** and **MySQL Database** on local machine with **XAMPP**
